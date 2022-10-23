@@ -20,3 +20,7 @@ Sou estudando de desenvolvimento web, gosto de rocks clássicos e praticar ativi
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoulinCGG&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=JoulinCGG&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+ 
+  
+ ![Snake animation](https://github.com/JoulinCGG/JoulinCGG/blob/output/github-contribution-grid-snake.svg)
+ 
