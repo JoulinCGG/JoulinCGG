@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align="right" src = "naruto-icegif-9.gif" width= "325px">
 
-<!--
-**JoulinCGG/JoulinCGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ❤ Seja bem-vindo ao meu perfil!
+Sou estudando de desenvolvimento web, gosto de rocks clássicos e praticar atividades físicas.
 
-Here are some ideas to get you started:
+- 🏋🏽‍♂️ Amante de musculação
+- 💙 Apaixonado por tecnologia
+- 👨🏽‍💻 Aprendendo algo sobre front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<div>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoulinCGG&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=JoulinCGG&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
